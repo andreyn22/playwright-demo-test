@@ -15,3 +15,8 @@
 - Playwright Examples (by Microsoft) – https://github.com/microsoft/playwright-examples
 - Playwright Test Generator Tool – https://github.com/mxschmitt/playwright-test-generator
 - Awesome Playwright – https://github.com/mxschmitt/awesome-playwright
+
+
+- Playwright: Web Automation Testing From Zero to Hero https://www.udemy.com/course/playwright-from-zero-to-hero/
+- Playwright Automation with TypeScript — Aliaksandr Khvastovich https://www.udemy.com/course/playwright-automation-with-typescript/
+- Learn Playwright with TypeScript (Web & API Testing) — Pavan Kumar https://www.udemy.com/course/learn-playwright-web-api-testing-with-typescript/
