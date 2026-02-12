@@ -6,7 +6,7 @@ https://demoqa.com/text-box
 https://the-internet.herokuapp.com/ 
 https://docs.google.com/document/d/e/2PACX-1vQWL3T7iUD8DeMPM4OV2x6ZaW8aQgYw2Z7gIQTVmNYa-QhFeo5rT29BTJ5427-QqoBHKokVtLUbU1oy/pub 
 
-ttps://www.youtube.com/watch?v=NATg-5C-U7k&list=PL83cimSRP5ZmwhC6u255huRwSi9tlP-nc&ab_channel=WishInfinite 
+https://www.youtube.com/watch?v=NATg-5C-U7k&list=PL83cimSRP5ZmwhC6u255huRwSi9tlP-nc&ab_channel=WishInfinite 
 https://www.youtube.com/watch?v=6eAZYkuFJTI&ab_channel=AutomationTestingOnline 
 https://www.youtube.com/watch?v=wCUJtfHh67E&ab_channel=RoboticQAAcademy 
 https://www.youtube.com/watch?v=788GvvcfwTY
