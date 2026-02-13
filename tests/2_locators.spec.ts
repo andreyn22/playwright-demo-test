@@ -29,13 +29,13 @@ test('User facing locators', async ({ page }) => {
 test('User identifies Home link via parent container', async ({ page }) => {
   await page.goto('https://demoqa.com/links');
 
-  const homeLink = page.locator('#linkWrapper').locator('a').filter({ hasText: /^Home$/ })
-  await expect(homeLink).toBeVisible();
-  await expect(homeLink).toHaveAttribute('href', 'https://demoqa.com');
+  const homeLink = page.locator('#linkWrapper').locator('a').filter({ hasText: /^Home$/ }) // By Parent Container and Text
+  await expect(homeLink).toBeVisible(); // Assertion
+  await expect(homeLink).toHaveAttribute('href', 'https://demoqa.com'); //
 
   await homeLink.click();
-  await expect(page).toHaveURL('https://demoqa.com/links');
-  await page.getByText('Selenium Online Training').check
+  await expect(page).toHaveURL('https://demoqa.com/links'); // Assertion: Verify that the URL is still the same after clicking the Home link
+  await page.getByText('Selenium Online Training').check // Assertion: By Text
 });
 
 
