@@ -39,6 +39,7 @@
 
 - https://demoqa.com/text-box
 - https://the-internet.herokuapp.com/
+- http://uitestingplayground.com/ajax
 
 ## Commands
 
@@ -70,5 +71,5 @@ npx playwright test --timeout=60000               # Set test timeout (ms)
 npx playwright test --repeat-each=5               # Repeat each test multiple times
 npx playwright test --shard=1/3                   # Run tests in parallel shards (CI)
 npx playwright test --config=playwright.config.ts # Use specific config file
+npx playwright test --headed --slow-mo=500        # Run tests in headed mode with slow motion (500ms delay between actions)
 npx prettier --write "**/*.spec.ts"               # Format all .spec.ts files
-
