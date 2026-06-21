@@ -3,13 +3,18 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test:bdd": "cucumber-js",
+      "test:bdd:debug": "cucumber-js --format progress-bar"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
-    "@playwright/test": "^1.56.1",
-    "@types/node": "^24.9.1"
+    "@cucumber/cucumber": "^13.0.0",
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^24.9.1",
+    "ts-node": "^10.9.2"
   }
 }
